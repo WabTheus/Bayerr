@@ -1,0 +1,22 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1{
+    color: blue
+}
+
+body{
+    background-color: red;
+}
+
+p{
+    text-align: center; 
+    color: aliceblue;
+  }
+
+h1{
+    text-align: center;
+}
+
